@@ -1,0 +1,39 @@
+h3{
+    color:burlywood;
+    font-size: 20px;
+    font-family:cursive;
+}
+table{
+    margin-left: 10px;
+    color:cadetblue;
+    font-size: 15px;
+    font-family:sans-serif;
+    margin-top:20px;
+    border-collapse: collapse;
+  width: 70%;
+}
+th{
+    padding-bottom: 10px;
+    font-size:18px;
+    text-align:left;
+    
+}
+
+td {
+  text-align:left;
+    margin-top:20px;
+  
+}
+h4, h5{
+    
+    text-align: left;
+    color:burlywood;
+    font-family: sans-serif;
+    
+}
+ul, p{
+    color:cadetblue;
+    font-size: 15px;
+    font-family:sans-serif;
+    
+}
